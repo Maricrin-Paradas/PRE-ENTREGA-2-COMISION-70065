@@ -1,0 +1,39 @@
+/* Definición de variables para colores y tamaños */
+:root {
+    --background-color-primary: lightsteelblue;
+    --background-color-form: rgb(247, 142, 93);
+    --box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    --padding: 15px;
+    --border-radius: 8px;
+    --width: 300px;
+    --margin: 5px;
+    --font-size: 1em;
+}
+
+/* Estilo para los productos */
+.productosHome {
+    display: inline-block;
+    background-color: var(--background-color-primary);
+    padding: var(--padding);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    width: var(--width);
+    margin: var(--margin);
+}
+
+/* Estilo para el texto dentro de productos */
+.productosHome p {
+    font-size: var(--font-size);
+    margin-bottom: 2px;
+}
+
+/* Estilo para el formulario de productos */
+#FormularioProduct {
+    display: inline-block;
+    background-color: var(--background-color-form);
+    padding: var(--padding);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    width: var(--width);
+    margin: var(--margin);
+}

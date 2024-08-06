@@ -1,0 +1,31 @@
+[{
+    "id": 1,
+    "title": "soy nuevo",
+    "price": 6,
+    "description": "Equilibrio perfecto entre nobleza y calidez. No te arrepentirás!  100% Lana ahora es Wool, si decides comprarlo ahora, lo recibirás como Wool.  Al finalizar tu proyecto, te sugerimos bloquearlo para que la prenda quede pareja y se luzca mejor.  Lavado: a mano sin estrujar, agua fría y secado idealmente sobre una toalla en forma horizontal.",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_717423-MLC46449152499_062021-F.webp",
+    "code": 102,
+    "sctok": 20,
+    "timestamp": "16/10/2023 13:00:00"
+  },
+  {
+    "id": 2,
+    "title": "soy nuevo",
+    "price": 45,
+    "description": "unico e indescriptible .",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_717423-MLC46449152499_062021-F.webp",
+    "code": 102,
+    "sctok": 20,
+    "timestamp": "16/10/2023 13:00:00"
+  },
+  {
+    "id": 3,
+    "title": "soy nuevo",
+    "price": 65,
+    "description": "unico e indescriptible .",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_717423-MLC46449152499_062021-F.webp",
+    "code": 102,
+    "sctok": 20,
+    "timestamp": "16/10/2023 13:00:00"
+  }
+]

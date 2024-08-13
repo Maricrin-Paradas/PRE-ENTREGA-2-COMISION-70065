@@ -1,12 +1,12 @@
 import express from "express"
-import productsRouter from "./src/routes/products.router.js"
+import productsRouter from "./routes/products.router.js"
 import handlebars from "express-handlebars"
-import cartRouter from "./src/routes/carts.router.js"
+import cartRouter from "./routes/carts.router.js"
 import __dirname from "./utils.js"
-import viewsRouter from "./src/routes/views.router.js"
+import viewsRouter from "./routes/views.router.js"
 import { Server } from "socket.io"
 import fs from "fs"
-import guardarProducto from "./src/utils/utils.js"
+import guardarProducto from "./utils/utils.js"
 
 const app = express();
 const PORT = 8080;
